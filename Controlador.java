@@ -9,7 +9,11 @@
  *          Javier Padilla:
  *          Aportes:
  *          - Versión inicial del proyecto con dos clases de tipo Interfaz pero
- *              con fines distintos, 
+ *              con fines distintos.
+ *              
+ *          Tatiana Briones:
+ *          Aportes:
+ *          - Ejercicio de JSpinner
  *              
  * @version Lunes 17 de Octubre de 2016
  */
