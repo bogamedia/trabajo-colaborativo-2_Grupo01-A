@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=controlador
+comment0.target=Interfaz(Controlador)
+comment0.text=\n\ Constructor\ para\ objetos\ de\ la\ clase\ Interfaz\n
+comment1.params=
+comment1.target=void\ ejemploSpinner()
+comment1.text=\n\ Muestra\ en\ el\ campo\ de\ texto\ el\ numero\ seleccionado\ en\ el\ spinner\n\ Escrito\:\ Tatiana\ Briones\n
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+numComments=3
